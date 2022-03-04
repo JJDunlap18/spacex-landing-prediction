@@ -1,2 +1,3 @@
-# spacex-landing-prediction
-A data science project intended to predict the outcome of SpaceX's Falcon 6 1st stage rocket 
+# SpaceX Falcon 9's 1st Stage Rocket Prediction: Project Overview
+Companies such as SpaceX, Virgin Galactic, Blue Origin, and Rocket Lab are making space travel accessible and affordable for everyone. SpaceX is arguably the most successful of these companies, advertising the Falcon 9 rocket as roughly $62 million while other company rockets can cost upward of $165 million. The key behind SpaceX’s success is that 1st stage of the rocket launch, which is where the majority of costs lie, can be reused for future launches. The goal of this project is to understand and predict when the 1st stage of the Falcon 9 rocket will land successfully so that the overall cost of a rocket launch can be better evaluated.
+ 
