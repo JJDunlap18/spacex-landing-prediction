@@ -9,8 +9,7 @@ Companies such as SpaceX, Virgin Galactic, Blue Origin, and Rocket Lab are worki
 - matplotlib
 - seaborn
 - BeautifulSoup4
-- dash
-- plotly
+- plotly dash
  
 ## Data Collection
 - Data was collected using to methods:
