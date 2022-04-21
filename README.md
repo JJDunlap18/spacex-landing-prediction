@@ -33,7 +33,7 @@ Companies such as SpaceX, Virgin Galactic, Blue Origin, and Rocket Lab are worki
   
 ## Data Preprocessing
 - NaN values in the "PayloadMass" column were replaced with with the mean value of the column
-- Using the "Outcome" column, a "Class" column was created to represent if the landing was unsuccessful
+- Using the "Outcome" column, a "Class" column was created to represent if the outcome of the landing
    - 0 = unsuccessful, 1 = successful
 - Removed features that seemed unnecessary to the final prediction (i.e. Data from rockets other than Falcon 9)
 - Replaced categorical features with dummy variables for future calculations
