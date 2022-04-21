@@ -36,7 +36,7 @@ Companies such as SpaceX, Virgin Galactic, Blue Origin, and Rocket Lab are worki
 - Using the "Outcome" column, a "Class" column was created to represent if the outcome of the landing
    - 0 = unsuccessful, 1 = successful
 - Removed features that seemed unnecessary to the final prediction (i.e. Data from rockets other than Falcon 9)
-- Replaced categorical features with dummy variables for future calculations
+- Replaced categorical features with dummy variables using the one-hot encoding method for future calculations
 
 ## Exploratory Data Analysis
 - A combination of scatter plots, bar graphs, and line graphs were used to visualize the relation between different features. Below are four graphs created in Jupyter Notebook:
