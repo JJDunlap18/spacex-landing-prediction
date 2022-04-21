@@ -14,7 +14,7 @@ Companies such as SpaceX, Virgin Galactic, Blue Origin, and Rocket Lab are worki
 ## Data Collection
 - Data was collected using two methods:
   - Using the requests library to collect data from the SpaceX API
-  -  Using the BeautifulSoup4 library to to extract Falcon 9 launch records from an HTML table on Wikipedia
+  -  Using the BeautifulSoup4 library to to extract Falcon 9 launch records from an HTML table on SpaceX's Wikipedia page
 - The following features were extracted and used to predict the outcome of the 1st stage rocket landing:
   - Booster Version
   - Payload Mass
