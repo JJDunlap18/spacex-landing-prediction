@@ -54,7 +54,7 @@ Companies such as SpaceX, Virgin Galactic, Blue Origin, and Rocket Lab are worki
   - Success rate seems to increase as the payload mass increases
   - The SSO and VLEO orbits have the highest success rates
      - I chose not to include ES-L1, GEO, and HEO due to each only having 1 therefore more data is needed 
-  - Success rate to increase as the years progress 
+  - Success rate seems to increase as the years progress 
 
 
 - Below are two graphs created using the plotly dash library:
